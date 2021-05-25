@@ -30,28 +30,28 @@
 
 作品简介：
 （此处仅为简介，详细介绍可以查看《使用说明》）
-本软件分为三个模块：任务排布、工时填报、数据处理。部署于各员工PC，通过局域网访问同一个数据库。下图为总体功能概览：
+本软件分为三个模块：任务排布、工时填报、数据处理。部署于各员工PC，通过局域网访问同一个数据库。下图为总体功能概览：  
 ![image](https://user-images.githubusercontent.com/46466354/119428744-156db500-bd40-11eb-9e1d-3cfc80a5a0b9.png)
 
 
-主要界面展示：
-1.发布任务
+主要界面展示：  
+1.发布任务  
 ![image](https://user-images.githubusercontent.com/46466354/119428751-1999d280-bd40-11eb-8025-b8b6570e70eb.png)
 
 
-2.任务分配
+2.任务分配  
 ![image](https://user-images.githubusercontent.com/46466354/119428764-1dc5f000-bd40-11eb-9149-f31f74fa900f.png)
 
 
-3.工时填报
+3.工时填报  
 ![image](https://user-images.githubusercontent.com/46466354/119428782-228aa400-bd40-11eb-887f-ece34522466f.png)
 
 
-4.数据分析的结果
+4.数据分析的结果  
 ![image](https://user-images.githubusercontent.com/46466354/119428790-274f5800-bd40-11eb-9af4-770d2998f629.png)
 
 
-5.可视化的结果
+5.可视化的结果  
 ![image](https://user-images.githubusercontent.com/46466354/119428796-2ae2df00-bd40-11eb-90b3-618e6cf5dec6.png)
 
 
